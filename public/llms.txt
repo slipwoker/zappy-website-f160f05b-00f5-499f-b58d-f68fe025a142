@@ -1,0 +1,83 @@
+# NL | SMS SPAM — Generative Engine Optimization Map
+
+> A digital credits selling business focused on offering credit packages or tokens to customers online. The nature of the credits (gaming, prepaid, gift cards, platform-specific, etc.) is yet to be clarified, but the core offering revolves around digital currency or credit units sold via a website.
+
+---
+
+## Pages
+
+### בית
+https://nl-sms-spam-f160f05b.zappy5.app
+מחפש קרדיטים לשליחת SMS בישראל? רכוש חבילות קרדיטים משתלמות במחיר המנצח, שלח הודעות מסיביות בקלות והגדל את העסק שלך עוד היום!
+
+### פתרונות
+https://nl-sms-spam-f160f05b.zappy5.app/solutions
+גלה פתרונות שיווק SMS מתקדמים: פלטפורמה אוטומטית לשליחת הודעות, ניהול קמפיינים חכם וקרדיטים זולים שמביאים תוצאות מטורפות. נסה עכשיו!
+
+### אמון
+https://nl-sms-spam-f160f05b.zappy5.app/trust
+בוא לראות למה אנחנו הבחירה מספר 1 לקרדיטים SMS בישראל: אמינות מוכחת, משלוח מהיר ולקוחות מרוצים שממליצים עלינו בכל פה. הצטרף למשפחה!
+
+### צור קשר
+https://nl-sms-spam-f160f05b.zappy5.app/contact
+צריך עזרה? צור קשר עכשיו לקבלת ייעוץ אישי, הצעת מחיר משתלמת לקרדיטים SMS, וכל התמיכה שתצטרך כדי להטיס את הקמפיינים שלך קדימה!
+
+### Products
+https://nl-sms-spam-f160f05b.zappy5.app/products
+המוצרים שלנו - NL | SMS SPAM
+
+### Product Detail
+https://nl-sms-spam-f160f05b.zappy5.app/product/:slug
+פרטי המוצר - NL | SMS SPAM
+
+### Category
+https://nl-sms-spam-f160f05b.zappy5.app/category/:slug
+מוצרים - NL | SMS SPAM
+
+## Legal & Policy
+
+### Privacy Policy
+https://nl-sms-spam-f160f05b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://nl-sms-spam-f160f05b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://nl-sms-spam-f160f05b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About NL | SMS SPAM
+A digital credits selling business focused on offering credit packages or tokens to customers online. The nature of the credits (gaming, prepaid, gift cards, platform-specific, etc.) is yet to be clarified, but the core offering revolves around digital currency or credit units sold via a website.
+
+## Services/Products
+- מכירת קרדיטים
+
+## Target Audience
+- משווקים דיגיטליים
+- מפתחי אפליקציות
+- בעלי עסקים קטנים
+
+## Industry
+E-commerce / Digital Credits
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://nl-sms-spam-f160f05b.zappy5.app/sitemap.xml
+- Robots: https://nl-sms-spam-f160f05b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://nl-sms-spam-f160f05b.zappy5.app/llms-full.txt
+- Products (JSON): https://nl-sms-spam-f160f05b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://nl-sms-spam-f160f05b.zappy5.app/product-feed.xml
