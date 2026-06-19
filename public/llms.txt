@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://nl-sms-spam-f160f05b.zappy5.app
+https://example.com
 מחפש קרדיטים לשליחת SMS בישראל? רכוש חבילות קרדיטים משתלמות במחיר המנצח, שלח הודעות מסיביות בקלות והגדל את העסק שלך עוד היום!
 
 ### פתרונות
-https://nl-sms-spam-f160f05b.zappy5.app/solutions
+https://example.com/solutions
 גלה פתרונות שיווק SMS מתקדמים: פלטפורמה אוטומטית לשליחת הודעות, ניהול קמפיינים חכם וקרדיטים זולים שמביאים תוצאות מטורפות. נסה עכשיו!
 
 ### אמון
-https://nl-sms-spam-f160f05b.zappy5.app/trust
+https://example.com/trust
 בוא לראות למה אנחנו הבחירה מספר 1 לקרדיטים SMS בישראל: אמינות מוכחת, משלוח מהיר ולקוחות מרוצים שממליצים עלינו בכל פה. הצטרף למשפחה!
 
 ### צור קשר
-https://nl-sms-spam-f160f05b.zappy5.app/contact
+https://example.com/contact
 צריך עזרה? צור קשר עכשיו לקבלת ייעוץ אישי, הצעת מחיר משתלמת לקרדיטים SMS, וכל התמיכה שתצטרך כדי להטיס את הקמפיינים שלך קדימה!
 
 ### Products
-https://nl-sms-spam-f160f05b.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - NL | SMS SPAM
 
 ### Product Detail
-https://nl-sms-spam-f160f05b.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - NL | SMS SPAM
 
 ### Category
-https://nl-sms-spam-f160f05b.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - NL | SMS SPAM
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://nl-sms-spam-f160f05b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://nl-sms-spam-f160f05b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://nl-sms-spam-f160f05b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -76,8 +76,8 @@ E-commerce / Digital Credits
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://nl-sms-spam-f160f05b.zappy5.app/sitemap.xml
-- Robots: https://nl-sms-spam-f160f05b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://nl-sms-spam-f160f05b.zappy5.app/llms-full.txt
-- Products (JSON): https://nl-sms-spam-f160f05b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://nl-sms-spam-f160f05b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
